@@ -83,3 +83,4 @@ wcwidth==0.2.6
 websocket-client==1.6.3
 websockets==11.0.3
 widgetsnbextension==4.0.9
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
